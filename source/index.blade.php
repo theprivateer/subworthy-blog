@@ -1,0 +1,51 @@
+---
+title: Subworthy Blog
+description: The list of blog posts for the site
+---
+
+@extends('_layouts.main')
+
+@section('nav')
+<div class="container mt-4 py-4">
+    <div class="row justify-content-center">
+        <div class="col-md-9">
+            <nav aria-label="breadcrumb">
+                <ol class="breadcrumb">
+                    <li class="breadcrumb-item">
+                        <a href="/">
+                            <svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" fill="currentColor" class="bi bi-app-indicator" viewBox="0 0 16 16">
+                                <path d="M5.5 2A3.5 3.5 0 0 0 2 5.5v5A3.5 3.5 0 0 0 5.5 14h5a3.5 3.5 0 0 0 3.5-3.5V8a.5.5 0 0 1 1 0v2.5a4.5 4.5 0 0 1-4.5 4.5h-5A4.5 4.5 0 0 1 1 10.5v-5A4.5 4.5 0 0 1 5.5 1H8a.5.5 0 0 1 0 1H5.5z"/>
+                                <path d="M16 3a3 3 0 1 1-6 0 3 3 0 0 1 6 0z"/>
+                            </svg>
+                        </a>
+                    </li>
+                    <li class="breadcrumb-item">Blog</li>
+                </ol>
+              </nav>
+        </div>
+    </div>
+</div>
+@endsection
+
+@section('body')
+<div class="container mt-4">
+    <div class="row justify-content-center">
+        <div class="col-md-9">
+            <p class="lead">All the latest news, features and updates about Subworthy.</p>
+            
+            @foreach ($blog as $post)
+                <div class="row post-preview">
+                    <div class="col-md-5">
+                        <h3><a href="{{ $post->getUrl() }}">{{ $post->title }}</a></h3>
+                        <p>{{ date('F j, Y', $post->date) }}</p>
+                    </div>
+
+                    <div class="col-md-7">
+                        {!! $post->getExcerpt(200) !!}
+                    </div>
+                </div>
+            @endforeach
+        </div>
+    </div>
+</div>
+@endsection
