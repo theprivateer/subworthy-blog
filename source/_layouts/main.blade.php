@@ -12,9 +12,9 @@
         <link rel="alternate" type="application/rss+xml" title="{{ $page->rssTitle }}" href="{{ $page->baseUrl.'/rss.xml' }}" />
 
         @if($page->production)
-        {{-- <!-- Fathom - beautiful, simple website analytics -->
-        <script src="https://fantastic-admire.philstephens.com/script.js" data-site="MULNTXUX" defer></script>
-        <!-- / Fathom --> --}}
+        <!-- Fathom - beautiful, simple website analytics -->
+        <script src="https://cdn.usefathom.com/script.js" data-site="ITUQWDHL" defer></script>
+        <!-- / Fathom -->
         @endif
         @section('head')
         @show
