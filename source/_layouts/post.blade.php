@@ -15,7 +15,7 @@
                         </a>
                     </li>
                     <li class="breadcrumb-item">
-                        <a href="/">Blog</a>
+                        <a href="/">Subworthy Blog</a>
                     </li>
                     <li class="breadcrumb-item">
                         {{ date('Y', $page->date) }}

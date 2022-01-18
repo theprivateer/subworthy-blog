@@ -19,7 +19,7 @@ description: The list of blog posts for the site
                             </svg>
                         </a>
                     </li>
-                    <li class="breadcrumb-item">Blog</li>
+                    <li class="breadcrumb-item">Subworthy Blog</li>
                 </ol>
               </nav>
         </div>
