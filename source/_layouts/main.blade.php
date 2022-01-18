@@ -13,7 +13,7 @@
 
         @if($page->production)
         <!-- Fathom - beautiful, simple website analytics -->
-        <script src="https://cdn.usefathom.com/script.js" data-site="ITUQWDHL" defer></script>
+        <script src="https://happy-essential.subworthy.com/script.js" data-site="ITUQWDHL" defer></script>
         <!-- / Fathom -->
         @endif
         @section('head')
