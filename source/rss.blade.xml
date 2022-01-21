@@ -14,7 +14,7 @@
         <link>{{ $post->getUrl() }}</link>
         <guid isPermaLink="true">{{ $post->getUrl() }}</guid>
         <description><![CDATA[{!! $post->description !!}]]></description>
-        <content:encoded><![CDATA[{!! $post->getContent() !!} <p><a href="mailto:hello@philstephens.com?subject={{ $post->title }}">Reply via email</a></p>]]></content:encoded>
+        <content:encoded><![CDATA[{!! $post->getContent() !!} <p><a href="mailto:admin@subworthy.com?subject=Blog: {{ $post->title }}">Reply via email</a></p>]]></content:encoded>
         <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">{{ $post->author }}</dc:creator>
         <pubDate>{{ $post->getDate()->format(DateTime::RSS) }}</pubDate>
 
