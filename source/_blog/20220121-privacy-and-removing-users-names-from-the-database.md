@@ -2,6 +2,8 @@
 extends: _layouts.post
 section: content
 date: 2022-01-21
+og_image: "https://blog.subworthy.com/assets/img/social/og/privacy1.png"
+twitter_image: "https://blog.subworthy.com/assets/img/social/twitter/privacy1.png"
 title: "Privacy, and removing user's names from the database"
 description: "Privacy is a big thing for Subworthy. We aim to track as little information as possible about our users and still remain useful."
 excerpt: "Privacy is a big thing for Subworthy. We aim to track as little information as possible about our users and still remain useful."
