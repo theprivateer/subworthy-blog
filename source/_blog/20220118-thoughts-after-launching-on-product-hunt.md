@@ -31,3 +31,5 @@ Two activities that I have noticed haven't been as accessible as they perhaps co
 Users can choose _when_ they want to receive their daily email, localised to their timezone.  This isn't immediately obvious, so I plan to make it much more accessible over the coming weeks.
 
 Secondly, to a novice subscribing to RSS feeds can be a little hit-and-miss. Not every site has an RSS or Atom feed (even the ones that you would expect to), and if you're used to consuming your media via the likes of Twitter and Facebook, it may be hard to know where to start.  As Subworthy slowly gets more users I have plans to offer suggestions based on popular feeds already on the system, as well as some how-to posts on this blog.
+
+**&mdash; Phil**

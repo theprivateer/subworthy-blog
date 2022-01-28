@@ -51,3 +51,5 @@ These features are still to come, but the foundations have been laid ready for m
 At the time of writing I have been using Subworthy myself for 248 days and it has truly become a habit. During the day I am no longer distracted by idly checking sites like TechCrunch and The Verge, but every evening I set aside 5-10 minutes to scroll through my latest 'issue' of Subworthy, catching up on the latest industry news (as well as the writings of various authors I am interested in) in one place.
 
 If you would like to try a different way of consuming online stories, why not sign up now and give it a whirl at [https://subworthy.com/register](https://subworthy.com/register) (did I mention it's free?!).
+
+**&mdash; Phil**

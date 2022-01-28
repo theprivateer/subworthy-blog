@@ -24,4 +24,4 @@ After launching on Product Hunt I noticed a number of users bypassing the `Name`
 
 Today I've pushed a minor update that removes any trace of user's real-life names from the system.  My next step will be to recommend one of a growing number of email-aliasing services at registration.  Whilst users are not paying for Subworthy at this stage, they are _not_ the product, so I have no need to know anything about you. All I care is that you are finding Subworthy useful and want to see it grow.
 
-**Phil**
+**&mdash; Phil**
