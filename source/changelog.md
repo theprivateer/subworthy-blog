@@ -6,6 +6,9 @@ title: Changelog
 
 Your source for recent updates to Subworthy, the simple personalised RSS-as-an-email service.
 
+### February 2022
+
+- Natively play podcasts within daily issues
 
 ### January 2022
 
