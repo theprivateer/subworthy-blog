@@ -8,7 +8,7 @@ title: "Listening to podcast episodes"
 description: "Now you can listen to your latest podcast episodes right inside your daily Subworthy issue!"
 excerpt: "Now you can listen to your latest podcast episodes right inside your daily Subworthy issue!"
 ---
-RSS is the defacto standard for distributing information about podcast episodes, so naturally you can use Subworthy to subscribe to them.
+RSS is the defacto standard for distributing information about podcast episodes, so naturally you can use Subworthy to subscribe to podcast feeds.
 
 As of today, you can now listen to your latest podcasts without leaving your Subworthy daily issue via a simple audio player in the expanded view of an article.
 
