@@ -4,11 +4,12 @@ section: content
 title: Changelog
 ---
 
-Your source for recent updates to Subworthy, the simple personalised RSS-as-an-email service.
+Your source for recent updates to Subworthy, the simple personalised RSS-as-a-daily-email service.
 
 ### February 2022
 
 - Natively play podcasts within daily issues
+- Article links now open in a new browser tab
 
 ### January 2022
 
