@@ -10,6 +10,7 @@ Your source for recent updates to Subworthy, the simple personalised RSS-as-a-da
 
 - Natively play podcasts within daily issues
 - Article links now open in a new browser tab
+- Subscription filters
 
 ### January 2022
 
