@@ -2,8 +2,8 @@
 extends: _layouts.post
 section: content
 date: 2022-01-18
-og_image: "https://blog.subworthy.com/assets/img/social/og/producthunt1.png"
-twitter_image: "https://blog.subworthy.com/assets/img/social/twitter/producthunt1.png"
+og_image: "https://snapstack.philstephens.com/img/1/tCsTeKfik8em2FIzME0dJ1dOeb98ibyiPAy39H01.png"
+twitter_image: "https://snapstack.philstephens.com/img/1/3v0gxWFTKcQzMogFIT1NwdxQQJIVfCX6XQir3LxF.png"
 title: "Thoughts after launching on Product Hunt"
 description: "After launching Subworthy on Product Hunt I started to see opportunities for simple and obvious improvements, as well as validation for some of the larger ideas I had for the platform."
 excerpt: "After launching Subworthy on Product Hunt I started to see opportunities for simple and obvious improvements, as well as validation for some of the larger ideas I had for the platform."

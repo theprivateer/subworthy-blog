@@ -18,7 +18,7 @@ I wanted to create a habit of only checking these sites once or twice a day - an
 
 [Subworthy](https://subworthy.com) is an online RSS reader that 'hides' all the stories from that day until a predetermined time, then it collates those new articles into a daily 'issue' and emails me an overview.  I can click through directly to each article from the email, or visit a page online to view all full stories in one place.
 
-![](/assets/img/subworthy-issue.png)
+![](https://snapstack.philstephens.com/img/1/18NR7OuoLsIEVJI3Xfnsqgsbhs6CpkISt9GaSAtg.png)
 
 So what makes Subworthy different?
 
