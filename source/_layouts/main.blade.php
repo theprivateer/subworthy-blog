@@ -12,11 +12,11 @@
         {{-- <script defer src="{{ mix('js/main.js', 'assets/build') }}"></script> --}}
         <link rel="alternate" type="application/rss+xml" title="{{ $page->rssTitle }}" href="{{ $page->baseUrl.'/rss.xml' }}" />
 
-        @if($page->production)
-        <!-- Fathom - beautiful, simple website analytics -->
-        <script src="https://happy-essential.subworthy.com/script.js" data-site="ITUQWDHL" defer></script>
-        <!-- / Fathom -->
-        @endif
+{{--        @if($page->production)--}}
+{{--        <!-- Fathom - beautiful, simple website analytics -->--}}
+{{--        <script src="https://happy-essential.subworthy.com/script.js" data-site="ITUQWDHL" defer></script>--}}
+{{--        <!-- / Fathom -->--}}
+{{--        @endif--}}
 
         <meta property="og:title" content="{!! $page->title !!}" />
         <meta property="og:description" content="{!! $page->description !!}" />

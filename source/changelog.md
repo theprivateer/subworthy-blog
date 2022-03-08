@@ -6,11 +6,15 @@ title: Changelog
 
 Your source for recent updates to Subworthy, the simple personalised RSS-as-a-daily-email service.
 
+### March 2022
+
+- Read Later functionality
+
 ### February 2022
 
 - Natively play podcasts within daily issues
 - Article links now open in a new browser tab
-- Subscription filters
+- [Subscription filters](/post/20220301-filters/)
 
 ### January 2022
 
